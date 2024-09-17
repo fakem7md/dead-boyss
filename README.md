@@ -73,7 +73,7 @@
     <span id="ip">Your IP : 2.49.61.75<br>
     <span id="location">Country &amp; City : AE - Sharjah</span>
     </span></p>
-    <h1>discord.gg/test</h1>
+    <h1>discord.gg/llll</h1>
     </div>
     
     </body></html>
